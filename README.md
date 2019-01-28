@@ -15,7 +15,7 @@ Sure that will happen, but since programmers write the tests _as well_, their
 implementation code, the code that satisfies the test, can only test what they
 themselves know about. A bad programmer will write low-value tests, pass it
 with low-value code, and sleep soundly not knowing how blind they were. The
-measure of code is not passing tests someone always wrote. If that were the
+measure of code is not passing tests someone already wrote. If that were the
 case, we could never make anything new since to make something new is to make
 something whose behavior we don't know well enough to describe in rigorous
 test-language.
