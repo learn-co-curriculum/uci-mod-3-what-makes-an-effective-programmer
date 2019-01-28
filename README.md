@@ -37,11 +37,12 @@ antagonistic people in the way of the ball getting into the net. Making a
 peanut butter and jelly sandwich is a problem, you need the ingredients, you
 need to arrange them in the right order, you might need to cut off the bread
 crust. Whether we call it a "play" on the soccer field or a "recipe" in the
-kitchen - essentially what you're doing is following a process. We're imagining
-a process that will solve the problem.
+kitchen - essentially what you're doing is following a process to create
+_another_ process &mdash; a process that will solve the problem.
 
-Good programmers do this every time they start on a new project. Their process
-might look like:
+Good programmers do this every time they start on a new bit of work. From adding
+a tiny new feature to undertaking a revolutionary project. Their process
+typically looks like:
 
 * What is the problem I'm trying to solve?
 * What does the output look like? What is the end result I'm trying to build?
@@ -50,7 +51,9 @@ might look like:
 
 ### How Do We Develop the Problem-solving Muscle?
 
-You build the problem solving muscle the same you build every muscle, constant
-effort and practice. The great thing about learning to program is that you have
-constant access to problems to build this muscle, every lab is an opportunity
-to practice and get better. Treat them that way ;-)
+You build the problem-solving skill the same you build every skill: constant,
+_conscious_ effort and practice. The great thing about learning to program is
+that you have constant access to problems that help build this skill. Every lab
+and every real-world observation is an opportunity to practice and get better.
+
+Treat them that way ;-)
